@@ -7,3 +7,7 @@ output: parametric cells of invidual photonic device building blocks (gdsfactory
 =======
 
 short notes: design rules ensure the geometric layouts compiles with foundary fabrication process (rules for PIC are different from those for IC)
+
+useful references regarding PIC design rules:
+
+1. [Siemens DRC] (https://blogs.sw.siemens.com/calibre/2015/11/17/design-rule-checking-for-silicon-photonics/) 
