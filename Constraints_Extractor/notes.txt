@@ -1,0 +1,9 @@
+=======
+
+input: circuit netlists
+
+output: layout constraints
+
+=======
+
+short notes: layout constriants for IC are typically symmetry and net criticality, what about for PICs? 
