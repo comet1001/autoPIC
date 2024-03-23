@@ -1,0 +1,9 @@
+=======
+
+input: design rules & device parameters
+
+output: parametric cells of invidual photonic device building blocks (gdsfactory) 
+
+=======
+
+short notes: design rules ensure the geometric layouts compiles with foundary fabrication process (rules for PIC are different from those for IC)
